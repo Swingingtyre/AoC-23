@@ -5,8 +5,6 @@ with open('input.txt') as f:
 digitNames = ['twone','zerone','sevenine','eighthree','eightwo','fiveight','oneight','threeight','nineight','one','two','three','four','five','six','seven','eight','nine','zero']
 digits = ['21','01','79','83','82','58','18','38','98','1','2','3','4','5','6','7','8','9','0']
 
-
-
 lines = []
 
 for i in brokenLines:
